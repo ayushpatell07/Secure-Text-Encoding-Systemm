@@ -18,3 +18,5 @@ This utility is educational and not cryptographically secure:
 XOR with a repeating key is vulnerable to known-plaintext and frequency attacks.
 Base64 is only an encoding, not encryption.
 Do not use this for protecting sensitive data in production. For secure encryption, use established libraries/protocols (e.g., libsodium, OpenSSL, AES-GCM).
+
+
